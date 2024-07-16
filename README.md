@@ -4,6 +4,11 @@
 ## Description
 An application that takes in notes title and text, once user is complete  they  are able to save it and have the note displayed.
 
+Website can be visited via : https://note-taker-dkw7.onrender.com
+
+![alt text](./assets/landing.png)
+![alt text](./assets/notes.png)
+
 ## Table of Content
 - [Installation](#installation)
 - [Usage](#usage)
